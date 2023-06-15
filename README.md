@@ -5,7 +5,7 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 ## Projet
 * [Code Collection Project](https://github.com/users/maximeblouin/projects/2/views/1)
 
-## Repos
+## Languages
 * [Matlab](https://github.com/maximeblouin/Computational-Finance/tree/main/Matlab)
 * [Python](https://github.com/maximeblouin/Computational-Finance/tree/main/Python)
 * [R](https://github.com/maximeblouin/Computational-Finance/tree/main/R)
