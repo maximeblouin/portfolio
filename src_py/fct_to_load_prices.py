@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def load_stock_prices():
-    prices = pd.read_csv('../../data/stock_prices.csv',
+    prices = pd.read_csv('../data/stock_prices.csv',
                          names=['ticker', 'date', 'open', 'high', 'low',
                                 'close', 'volume', 'adj_close', 'adj_volume'])
     return prices
