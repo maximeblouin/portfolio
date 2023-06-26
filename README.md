@@ -2,11 +2,31 @@
 
 I'm making my implementations public. Some of them are on GitHub. The others are on my website [www.maximeblouin.com](http://www.maximeblouin.com/reports_for_quants/index.html).
 
-## GitHub Projet
+## Topics
 
-* [Code Collection Project](https://github.com/users/maximeblouin/projects/2/views/1)
+1. Quantitative Methods
+2. Economics
+3. Financial Statement Analysis
+4. Corporate Issuers
+5. Equity Investments
+6. Fixed Income
+7. Derivatives
+8. Alternative Investments
+9. Portfolio Management
 
 ## Ressources
+
+### Blogs
+
+* [Financial Hacker, The](https://financial-hacker.com)
+* [KDnuggets](https://www.kdnuggets.com)
+* [Machine Learning Mastery](https://machinelearningmastery.com)
+* [Medium](https://medium.com)
+  * [Analytics Vidhya](https://medium.com/analytics-vidhya)
+  * [DataDrivenInvestor](https://medium.datadriveninvestor.com)
+  * [MLearning.ai](https://medium.com/mlearning-ai)
+* [Stack Overflow](https://stackoverflow.com)
+* [Towards Data Science](https://towardsdatascience.com)
 
 ### Books
 
@@ -16,14 +36,17 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
   * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
-### Repositories
+### Git Repositories
 
+* [QuantInsti Profile](https://github.com/quantra-go-algo)
+  * [GitHub Gists](https://gist.github.com/quantra-go-algo)
 * [jasonyip184/Index-Tracking-Portfolio-Optimization](https://github.com/jasonyip184/Index-Tracking-Portfolio-Optimization)
 
 ### Papers
 
 * [Henrard, Marc P. A., Overnight Futures: Convexity Adjustment (February 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3134346)
 
-### Web
+### Journals
 
+* [Analytics India Magazine](https://analyticsindiamag.com)
 * [The Journal of Computational Finance](https://www.risk.net/journal-of-computational-finance)
