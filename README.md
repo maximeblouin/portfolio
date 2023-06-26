@@ -16,6 +16,10 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
   * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
+### Repositories
+
+* [jasonyip184/Index-Tracking-Portfolio-Optimization](https://github.com/jasonyip184/Index-Tracking-Portfolio-Optimization)
+
 ### Papers
 
 * [Henrard, Marc P. A., Overnight Futures: Convexity Adjustment (February 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3134346)
