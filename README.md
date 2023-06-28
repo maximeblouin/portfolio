@@ -40,7 +40,8 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 
 * [QuantInsti Profile](https://github.com/quantra-go-algo)
   * [GitHub Gists](https://gist.github.com/quantra-go-algo)
-* [jasonyip184/Index-Tracking-Portfolio-Optimization](https://github.com/jasonyip184/Index-Tracking-Portfolio-Optimization)
+* [jasonyip184 / Index-Tracking-Portfolio-Optimization](https://github.com/jasonyip184/Index-Tracking-Portfolio-Optimization)
+* [udacity / artificial-intelligence-for-trading](https://github.com/udacity/artificial-intelligence-for-trading)
 
 ### Papers
 
