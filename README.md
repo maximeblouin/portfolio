@@ -5,14 +5,27 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 ## Topics
 
 1. Quantitative Methods
+    1. [Time value of money](https://github.com/maximeblouin/portfolio/blob/main/notebooks/quantitative_methods/time_value_of_money.ipynb)
 2. Economics
 3. Financial Statement Analysis
 4. Corporate Issuers
 5. Equity Investments
 6. Fixed Income
 7. Derivatives
+    1. [Interest Rate Futures](https://github.com/maximeblouin/portfolio/blob/main/notebooks/derivatives/interest_rate_futures.ipynb)
 8. Alternative Investments
 9. Portfolio Management
+
+## Problems taken from
+
+* CFA Institute Investment Foundations
+  * Chapter 8 - Quantitative Concepts by Michael J. Buckle, PhD, James Seaton, PhD, and Stephen Thomas, PhD
+* [Options, Futures, and Other Derivatives, Global Edition, 11e (John C. Hull)](https://www.pearson.com/en-us/subject-catalog/p/options-futures-and-other-derivatives/P200000005938/9780136939917)
+  * Practice Questions 6
+  * Practice Questions 23
+  * [Textbook Resources](http://www-2.rotman.utoronto.ca/~hull/ofod/) and [DerivaGem Software](http://www-2.rotman.utoronto.ca/~hull/software/index.html)
+* Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
+  * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
 ## Resources
 
@@ -42,15 +55,6 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 ### Papers
 
 * [Henrard, Marc P. A., Overnight Futures: Convexity Adjustment (February 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3134346)
-
-### Problems taken from
-
-* CFA Institute Investment Foundations
-  * Chapter 8 - Quantitative Concepts by Michael J. Buckle, PhD, James Seaton, PhD, and Stephen Thomas, PhD
-* [Options, Futures, and Other Derivatives, Global Edition, 11e (John C. Hull)](https://www.pearson.com/en-us/subject-catalog/p/options-futures-and-other-derivatives/P200000005938/9780136939917)
-  * [Textbook Resources](http://www-2.rotman.utoronto.ca/~hull/ofod/) and [DerivaGem Software](http://www-2.rotman.utoronto.ca/~hull/software/index.html)
-* Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
-  * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
 ### Journals
 

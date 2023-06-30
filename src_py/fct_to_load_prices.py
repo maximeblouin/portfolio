@@ -2,9 +2,23 @@ import pandas as pd
 
 
 def load_stock_prices():
-    prices = pd.read_csv('../data/stock_prices.csv',
-                         names=['ticker', 'date', 'open', 'high', 'low',
-                                'close', 'volume', 'adj_close', 'adj_volume'])
+    """
+    It reads in data from a csv file and produces a DataFrame with close data.
+    
+    column names:
+        ticker
+        date
+        open
+        high
+        low
+        close
+        volume
+        adj_close
+        adj_volume
+    """
+    prices = pd.read_csv(filepath_or_buffer = '../../data/stock_prices.csv',
+                         names = ['ticker', 'date', 'open', 'high', 'low',
+                                  'close', 'volume', 'adj_close', 'adj_volume'])
     return prices
 
 def load_price_volatility():
@@ -23,12 +37,6 @@ def load_price_volatility():
     filename = '../data/prices_volatility.csv'
 
     return pd.read_csv(filename, parse_dates=['date'])
-
-
-def load_stock_prices(symbol):
-    data = pd.read_csv("../data/{}.csv".format(symbol))
-
-    return data
 
 
 def load_eod_quotemedia_value_filter(filename, values, symbols):
