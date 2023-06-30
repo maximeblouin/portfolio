@@ -157,6 +157,7 @@ cython_debug/
 
 # Visual Studio Code
 .vs/
+.vscode/settings.json
 
 # Shortcuts
-run_pytest.lnk
+*.lnk
