@@ -1,3 +1,12 @@
+"""
+This module contains unit tests for the time value of money calculations in
+the quantitative_methods package.
+
+It includes tests for the following functions:
+- calculate_expected_annual_rate
+- calculate_present_value
+"""
+
 import src_py.quantitative_methods.time_value_of_money as tvm
 
 
