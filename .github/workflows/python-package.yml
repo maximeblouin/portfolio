@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     strategy:
       fail-fast: false
       matrix:
@@ -28,7 +28,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install flake8 pytest
-        python -m pip install matplotlib numpy pandas pingouin pyswarms QuantLib scikit-learn scipy seaborn statsmodels torchvision tslearn yfinance
+        python -m pip install pandas QuantLib
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
