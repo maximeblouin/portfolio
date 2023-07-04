@@ -27,30 +27,6 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
   * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
-## Dependencies
-
-* matplotlib
-* numpy
-* pandas
-* pingouin
-* pyswarms
-* QuantLib
-* scikit-learn
-* scipy
-* seaborn
-* statsmodels
-* torchvision
-* tslearn
-* yfinance
-
-> `python -m pip install matplotlib numpy pandas pingouin pyswarms QuantLib scikit-learn scipy seaborn statsmodels torchvision tslearn yfinance`
-
-* flake8
-* ipykernel
-* pytest
-
-> `python -m pip install flake8 ipykernel pytest`
-
 ## Resources
 
 ### Blogs
@@ -84,3 +60,36 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 
 * [Analytics India Magazine](https://analyticsindiamag.com)
 * [The Journal of Computational Finance](https://www.risk.net/journal-of-computational-finance)
+
+## Environnement
+
+### Python versions
+
+* 3.8
+* 3.9
+* 3.10
+
+### Dependencies
+
+* matplotlib
+* numpy
+* pandas
+* pingouin
+* pyswarms
+* QuantLib
+* scikit-learn
+* scipy
+* seaborn
+* statsmodels
+* torchvision
+* tslearn
+* yfinance
+
+> `python -m pip install matplotlib numpy pandas pingouin pyswarms QuantLib scikit-learn scipy seaborn statsmodels torchvision tslearn yfinance`
+
+* flake8
+* ipykernel
+* pylint
+* pytest
+
+> `python -m pip install flake8 ipykernel pylint pytest`
