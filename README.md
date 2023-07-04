@@ -27,6 +27,30 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * Principles of Corporate Finance, 14e (Brealey, Myers, Allen, and Edmans)
   * [Textbook Resources](https://www.mhhe.com/brealey14e)
 
+## Dependencies
+
+* matplotlib
+* numpy
+* pandas
+* pingouin
+* pyswarms
+* QuantLib
+* scikit-learn
+* scipy
+* seaborn
+* statsmodels
+* torchvision
+* tslearn
+* yfinance
+
+> `python -m pip install matplotlib numpy pandas pingouin pyswarms QuantLib scikit-learn scipy seaborn statsmodels torchvision tslearn yfinance`
+
+* flake8
+* ipykernel
+* pytest
+
+> `python -m pip install flake8 ipykernel pytest`
+
 ## Resources
 
 ### Blogs
