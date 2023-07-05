@@ -2,10 +2,11 @@
 This module provides functions for financial calculations.
 """
 
+
 def calculate_expected_annual_rate(apr, compounding_periods_per_year):
     """
     Calculates the expected annual rate (EAR) given the APR and the compounding periods per year.
-    
+
     :param apr: The Annual Percentage Rate (APR).
     :param compounding_periods_per_year: The number of compounding periods per year.
 

@@ -2,6 +2,7 @@
 Module providing color codes for terminal output.
 """
 
+
 class BgColors:
     """
     Provides color codes for terminal output.
@@ -47,6 +48,7 @@ class BgColors:
         :rtype: List[str]
         """
         return [attr for attr in dir(cls) if not attr.startswith("__")]
+
 
 def assert_equals(actual, expected):
     """

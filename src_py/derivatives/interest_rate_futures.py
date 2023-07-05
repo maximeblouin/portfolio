@@ -5,6 +5,7 @@ U.S. bond using the QuantLib library.
 
 import QuantLib as ql
 
+
 def calculate_accrued_interest_us_corporate_bond(settlement_date, issue_date, maturity_date,
                                                  face_value, coupon_rate):
     """

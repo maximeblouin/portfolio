@@ -4,10 +4,11 @@ This module provides functions for loading and manipulating stock price data usi
 
 import pandas as pd
 
+
 def load_stock_prices():
     """
     Reads data from a CSV file and produces a DataFrame with close data.
-    
+
     column names:
         ticker
         date
@@ -19,10 +20,11 @@ def load_stock_prices():
         adj_close
         adj_volume
     """
-    prices = pd.read_csv(filepath_or_buffer = '../../data/stock_prices.csv',
-                         names = ['ticker', 'date', 'open', 'high', 'low',
-                                  'close', 'volume', 'adj_close', 'adj_volume'])
-    return prices
+
+    return pd.read_csv(
+        filepath_or_buffer='../../data/stock_prices.csv',
+        names=['ticker', 'date', 'open', 'high', 'low', 'close', 'volume', 'adj_close', 'adj_volume'])
+
 
 def load_price_volatility():
     """
