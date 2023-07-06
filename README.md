@@ -5,7 +5,6 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 ## Topics
 
 1. Quantitative Methods
-    1. [Time value of money](https://github.com/maximeblouin/portfolio/blob/main/notebooks/quantitative_methods/time_value_of_money.ipynb)
 2. Economics
 3. Financial Statement Analysis
 4. Corporate Issuers

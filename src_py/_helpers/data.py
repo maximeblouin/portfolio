@@ -21,9 +21,12 @@ def load_stock_prices():
         adj_volume
     """
 
+    header = ['ticker', 'date', 'open', 'high', 'low', 'close',
+              'volume', 'adj_close', 'adj_volume']
+
     return pd.read_csv(
         filepath_or_buffer='../../data/stock_prices.csv',
-        names=['ticker', 'date', 'open', 'high', 'low', 'close', 'volume', 'adj_close', 'adj_volume'])
+        names=header)
 
 
 def load_price_volatility():
